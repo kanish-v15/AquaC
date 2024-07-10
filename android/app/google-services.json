@@ -7,27 +7,27 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:385344864542:android:f07444c23ce673876e090f",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.aqua_c"
         }
       },
       "oauth_client": [
         {
-          "client_id": "385344864542-u7mdhda813gcusmql07l37kp9ea4jp4q.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBE26W8xQlQZkFOjmPYeCHjOh6CtxfkOBk"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "385344864542-u7mdhda813gcusmql07l37kp9ea4jp4q.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
